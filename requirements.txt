@@ -1,0 +1,6 @@
+PyGObject
+opencv-python
+flask
+PyQt5
+numpy
+requests
